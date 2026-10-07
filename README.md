@@ -148,5 +148,5 @@ The decision is recorded in PostgreSQL.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Aniket-8314/CloudShield
 cd cloudshield
